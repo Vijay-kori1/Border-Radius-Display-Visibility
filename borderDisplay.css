@@ -21,12 +21,12 @@ h1{
     margin-left: 150px;
     display: inline;
 }
-ul li{
+li{
     display: block;
     display: list-item;
     visibility: hidden;
 }
-tr td{
+td{
     
     visibility: collapse;
 }
